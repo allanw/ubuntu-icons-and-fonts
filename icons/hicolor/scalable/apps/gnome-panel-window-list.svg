@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2285" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48px" width="48px" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs2287">
+  <linearGradient id="linearGradient2250">
+   <stop id="stop2252" style="stop-color:#fff;stop-opacity:0" offset="0"/>
+   <stop id="stop2254" style="stop-color:#fff" offset=".1"/>
+   <stop id="stop2256" style="stop-color:#fff" offset="0.76"/>
+   <stop id="stop2258" style="stop-color:#fff;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2215">
+   <stop id="stop2217" style="stop-color:#555753;stop-opacity:0" offset="0"/>
+   <stop id="stop2223" style="stop-color:#555753" offset=".1"/>
+   <stop id="stop2225" style="stop-color:#555753" offset=".75"/>
+   <stop id="stop2219" style="stop-color:#555753;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2221" y2="36.364" xlink:href="#linearGradient2215" gradientUnits="userSpaceOnUse" x2="46.164" gradientTransform="matrix(1.043 0 0 1.0043 -1.0323 -6.0233)" y1="36.364" x1="1.813"/>
+  <linearGradient id="linearGradient2234" y2="36.364" gradientUnits="userSpaceOnUse" x2="46.056" gradientTransform="matrix(1 0 0 1.0043 0 -6.0233)" y1="36.364" x1=".85863">
+   <stop id="stop2230" style="stop-color:#babdb6;stop-opacity:0" offset="0"/>
+   <stop id="stop2236" style="stop-color:#babdb6" offset=".1"/>
+   <stop id="stop2238" style="stop-color:#babdb6" offset=".75"/>
+   <stop id="stop2232" style="stop-color:#bbbeb7;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2247" y2="42.998" xlink:href="#linearGradient2215" gradientUnits="userSpaceOnUse" x2="46.658" gradientTransform="translate(0,-6)" y1="42.998" x1="1.2812"/>
+  <linearGradient id="linearGradient2255" y2="36.75" gradientUnits="userSpaceOnUse" x2="45.824" gradientTransform="matrix(.90476 0 0 1 4.5714 -6)" y1="36.75" x1="31.483">
+   <stop id="stop2251" offset="0"/>
+   <stop id="stop2253" style="stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2276" y2="36.556" xlink:href="#linearGradient2250" gradientUnits="userSpaceOnUse" x2="46.939" gradientTransform="translate(0,-6)" y1="36.379" x1="1.0294"/>
+  <linearGradient id="linearGradient2245" y2="36.498" gradientUnits="userSpaceOnUse" x2="44.166" gradientTransform="translate(0,-6)" y1="36.498" x1="3.0539">
+   <stop id="stop2260" style="stop-color:#fff;stop-opacity:0" offset="0"/>
+   <stop id="stop2266" style="stop-color:#d3d7cf" offset=".05"/>
+   <stop id="stop2268" style="stop-color:#d3d7cf" offset="0.8"/>
+   <stop id="stop2262" style="stop-color:#fff;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2260" y2="36.364" xlink:href="#linearGradient2250" gradientUnits="userSpaceOnUse" x2="46.164" gradientTransform="matrix(1.043 0 0 1.0043 -1.0323 -6.0233)" y1="36.364" x1="1.813"/>
+ </defs>
+ <metadata id="metadata2290">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Taskbar</dc:title>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Andreas Nilsson</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/GPL/2.0/"/>
+    <dc:contributor>
+     <cc:Agent>
+      <dc:title>Lapo Calamandrei</dc:title>
+     </cc:Agent>
+    </dc:contributor>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>taskbar</rdf:li>
+      <rdf:li>panel</rdf:li>
+      <rdf:li>applet</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+    <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+    <cc:requires rdf:resource="http://web.resource.org/cc/Notice"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+    <cc:requires rdf:resource="http://web.resource.org/cc/ShareAlike"/>
+    <cc:requires rdf:resource="http://web.resource.org/cc/SourceCode"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <rect id="rect3734" style="stroke-linejoin:round;stroke:url(#linearGradient2221);fill:url(#linearGradient2234)" rx="0" ry="0" height="23.969" width="47.055" y="18.513" x=".52150"/>
+  <path id="rect3762" style="stroke-linejoin:round;stroke:url(#linearGradient2247);fill:url(#linearGradient2245)" d="m0.53125 21.546v17.988h6.6562c0.1365 0 0.2828-0.024 0.4064-0.063 0.1934-0.065 0.3903-0.201 0.5312-0.343 0.0651-0.069 0.1383-0.168 0.1875-0.25 0.1104-0.195 0.1875-0.447 0.1875-0.688v-15.301c0-0.24-0.0771-0.493-0.1875-0.687-0.0492-0.082-0.1224-0.181-0.1875-0.25-0.1409-0.142-0.3378-0.278-0.5312-0.344-0.1236-0.038-0.2699-0.062-0.4063-0.062h-6.6562zm11.125 0c-0.077 0.009-0.178 0.04-0.25 0.062-0.193 0.066-0.39 0.202-0.531 0.344-0.065 0.069-0.138 0.168-0.187 0.25-0.111 0.194-0.188 0.447-0.188 0.687v15.301c0 0.241 0.077 0.493 0.188 0.688 0.049 0.082 0.122 0.181 0.187 0.25 0.141 0.142 0.338 0.278 0.531 0.343 0.124 0.039 0.27 0.063 0.406 0.063h35.657v-17.988h-35.657c-0.056 0-0.101-0.007-0.156 0z"/>
+  <path id="rect3736" style="opacity:.90980;stroke-linejoin:round;stroke:url(#linearGradient2276);fill:none" d="m0.46875 22.563v15.891h6.4062c0.0944 0 0.2017-0.024 0.2812-0.062 0.1461-0.079 0.2703-0.242 0.3126-0.406 0.008-0.04 0.0312-0.083 0.0312-0.125v-14.673c0-0.179-0.0969-0.358-0.2188-0.469-0.0299-0.025-0.0906-0.075-0.125-0.094-0.0795-0.038-0.1868-0.062-0.2812-0.062h-6.4062zm11.531 0c-0.07 0.01-0.159 0.061-0.219 0.093-0.025 0.016-0.071 0.044-0.093 0.063-0.015 0.013-0.05 0.048-0.063 0.062-0.018 0.023-0.047 0.069-0.063 0.094-0.046 0.086-0.093 0.208-0.093 0.313v14.673c0 0.052 0.019 0.107 0.031 0.156 0.018 0.057 0.061 0.139 0.094 0.187 0.11 0.148 0.3 0.25 0.5 0.25h35.406v-15.891h-35.406c-0.032 0-0.064-0.005-0.094 0z"/>
+  <g id="g1374" transform="translate(1,-3.9375)">
+   <rect id="rect3746" style="stroke-linejoin:round;stroke:#888a85;stroke-linecap:round;fill:#eeeeec" rx="1.3132" ry="1.3132" height="10.019" width="10.959" y="29.502" x="13.538"/>
+   <rect id="rect2262" style="stroke-linejoin:round;stroke:#fff;stroke-linecap:round;fill:none" rx="0" ry="0" height="7.986" width="8.8381" y="30.474" x="14.599"/>
+   <rect id="rect3748" style="stroke-linejoin:round;stroke:#204a87;stroke-linecap:round;fill:#729fcf" rx="1.3132" ry="1.3132" height="3.125" width="11" y="29.438" x="13.5"/>
+  </g>
+  <rect id="rect3752" style="opacity:.14510;fill:url(#linearGradient2255)" rx=".5625" ry=".5625" height="5" width="19" y="28" x="29"/>
+  <rect id="rect2247" style="opacity:.67451;stroke-linejoin:round;stroke:url(#linearGradient2260);fill:none" rx="0" ry="0" height="22" width="47.591" y="19.51" x=".40904"/>
+ </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="256" width="256" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4">
+  <linearGradient id="linearGradient3611" y2="252.44" gradientUnits="userSpaceOnUse" x2="128.29" y1="7.0228" x1="128.29">
+   <stop id="stop3607" style="stop-color:#d3d7cf;" offset="0"/>
+   <stop id="stop3609" style="stop-color:#ffffff;" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-16.182 112.24)">
+  <text id="text3849" style="font-size:144px;font-family:Bitstream Vera Sans;font-weight:normal;font-style:normal;fill:#ffffff;" xml:space="preserve" transform="translate(16.182 -112.24)" y="83.263916" x="83.842659"><tspan id="tspan3851" x="83.842659" y="83.263916"/></text>
+  <rect id="rect2823" ry="49.497" style="stroke-linejoin:round;stroke:#555753;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-width:5;fill:url(#linearGradient3611);" transform="translate(16.182 -112.24)" height="240.42" width="242.44" y="9.5228" x="7.0711"/>
+  <path id="path6772" style="stroke-linejoin:miter;stroke:#000000;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-width:17.27272797;fill:none;" d="m194.86-16.79-51.82-51.818-86.365 86.364 86.365 86.364 51.82-51.819"/>
+  <path id="path6774" style="stroke-linejoin:miter;stroke:#000000;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-width:19.04126167;fill:none;" d="m149.79 17.756h83.964"/>
+ </g>
+</svg>

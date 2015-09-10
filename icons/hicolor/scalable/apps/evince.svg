@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg11300" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" sodipodi:docname="evince.svg" xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd" height="48px" sodipodi:version="0.32" width="48px" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" sodipodi:docbase="/home/jimmac/gfx/ximian/art/icons/application-icons" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs3">
+  <radialGradient id="radialGradient4588" gradientUnits="userSpaceOnUse" cy="38.625" cx="24.625" gradientTransform="matrix(1 0 0 .42012 0 22.398)" r="21.125">
+   <stop id="stop4584" offset="0"/>
+   <stop id="stop4586" style="stop-opacity:0" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient4596" y2="24.109" gradientUnits="userSpaceOnUse" x2="53.568" gradientTransform="translate(-.068085 -5.1003)" y1="24.109" x1="24.689">
+   <stop id="stop4592" style="stop-color:#c00" offset="0"/>
+   <stop id="stop4594" style="stop-color:#ffa2a2" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient4604" gradientUnits="userSpaceOnUse" cy="12.605" cx="24.502" gradientTransform="matrix(2.3193 1.8465e-24 -3.4265e-24 2.3747 -32.325 -17.6)" r="20.508">
+   <stop id="stop4600" style="stop-color:#e6eef7" offset="0"/>
+   <stop id="stop4602" style="stop-color:#8ab0d8" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient3503" gradientUnits="userSpaceOnUse" cy="19.188" cx="24.621" gradientTransform="matrix(2.4769 -1.5827e-16 7.8388e-8 1.8514 -36.364 -15.712)" r="19.379">
+   <stop id="stop3499" style="stop-color:#fff" offset="0"/>
+   <stop id="stop3501" style="stop-color:#fff;stop-opacity:.56731" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient3513" gradientUnits="userSpaceOnUse" cy="26.787" cx="25.986" gradientTransform="matrix(.86314 0 0 .43890 3.5565 15.03)" r="15.465">
+   <stop id="stop3509" offset="0"/>
+   <stop id="stop3511" style="stop-opacity:0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <sodipodi:namedview id="base" bordercolor="#666666" pagecolor="#ffffff" showgrid="false" borderopacity="0.25490196" stroke="#3465a4" fill="#729fcf"/>
+ <metadata id="metadata4">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Jakub Steiner</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:source>http://jimmac.musichall.cz</dc:source>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/GPL/2.0/"/>
+    <dc:title>Evince</dc:title>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+    <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+    <cc:requires rdf:resource="http://web.resource.org/cc/Notice"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+    <cc:requires rdf:resource="http://web.resource.org/cc/ShareAlike"/>
+    <cc:requires rdf:resource="http://web.resource.org/cc/SourceCode"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1">
+  <path id="path4580" sodipodi:rx="21.125" sodipodi:ry="8.875" style="color:#000000;fill:url(#radialGradient4588)" sodipodi:type="arc" d="m45.75 38.625a21.125 8.875 0 1 1 -42.25 0 21.125 8.875 0 1 1 42.25 0z" sodipodi:cy="38.625" sodipodi:cx="24.625"/>
+  <rect id="rect2362" style="fill-rule:evenodd;color:#000000;stroke:#3465a4;stroke-miterlimit:10;fill:url(#radialGradient4604)" rx="5.25" ry="5.25" height="40.996" width="40.015" y="3.502" x="4.4947"/>
+  <rect id="rect4578" style="color:#000000;stroke:#fff;stroke-miterlimit:10;fill:none" rx="4.1893" ry="4.1893" height="38.996" width="38.017" y="4.5015" x="5.4888"/>
+  <path id="path3505" sodipodi:rx="13.965359" sodipodi:ry="6.3639612" style="opacity:.33516;color:#000000;fill:url(#radialGradient3513)" sodipodi:type="arc" d="m39.952 26.787a13.965 6.364 0 1 1 -27.931 0 13.965 6.364 0 1 1 27.931 0z" transform="matrix(1.3418 0 0 .72222 -10.472 10.269)" sodipodi:cy="26.786797" sodipodi:cx="25.986174"/>
+  <path id="path3495" sodipodi:nodetypes="csscccssc" style="stroke-linejoin:round;color:#000000;stroke:url(#radialGradient3503);stroke-linecap:round;stroke-miterlimit:20;stroke-width:3;fill:#fff" d="m7.126 31.741c4.64-4.055 23.768-21.659 18.726-22.067-2.615-0.2118-8.743 1.473-11.476 6.589-5.1188 9.58 6.42 10.985 11.211 10.405 7.85-1.223 16.831-6.894 16.831-6.894l-0.131 6.451c-16.824 4.759-26.808 3.449-32.672-2.248-5.7034-5.543 7.92-18.052 18.96-16.901 11.398 1.1883-21.449 24.665-21.449 24.665z"/>
+  <path id="path3695" sodipodi:nodetypes="csscccssc" style="color:#000000;fill:url(#linearGradient4596)" d="m6.2421 32c4.6399-4.055 24.652-22.543 19.61-22.951-2.615-0.2118-8.743 1.473-11.476 6.589-5.1188 9.58 6.42 10.985 11.211 10.405 7.85-1.223 17.413-6.321 17.413-6.321l-0.006 5.202c-16.824 4.758-27.515 4.125-33.378-1.572-5.7044-5.543 7.919-18.052 18.959-16.901 11.398 1.1883-22.333 25.549-22.333 25.549z"/>
+  <rect id="rect4626" style="opacity:.33516;color:#000000" height="1" width="28" y="35" x="10"/>
+  <rect id="rect4628" style="opacity:.33516;color:#000000" height="1" width="28" y="37" x="10"/>
+  <rect id="rect4630" style="opacity:.33516;color:#000000" height="1" width="18" y="39" x="10"/>
+ </g>
+</svg>
